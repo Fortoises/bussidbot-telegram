@@ -1,0 +1,5 @@
+{
+  "admin_id": 123456789,
+  "db_name": "bussid_accounts.db",
+  "max_running_per_user": 2
+}
