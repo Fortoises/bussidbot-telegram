@@ -75,6 +75,5 @@ pip install python-telegram-bot==20.7 requests python-dotenv
 
 ## License
 
-[LICENSE]
-(https://github.com/Fortoises/bussidbot-telegram/blob/main/LICENSE)
+[LICENSE](https://github.com/Fortoises/bussidbot-telegram/blob/main/LICENSE)
 
